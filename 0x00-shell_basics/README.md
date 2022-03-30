@@ -1,1 +1,1 @@
-Learing the shell basics
+This project is used to learn basics of 'The Shell'
